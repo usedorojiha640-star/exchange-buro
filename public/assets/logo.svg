@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="392" height="96" viewBox="0 0 392 96" fill="none">
+<defs><linearGradient id="green" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#08ab80"/><stop offset=".5" stop-color="#aaff39"/><stop offset="1" stop-color="#72e32e"/></linearGradient><linearGradient id="steel" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#f8fff8"/><stop offset=".65" stop-color="#a5aea9"/><stop offset="1" stop-color="#6c7974"/></linearGradient><filter id="g"><feGaussianBlur stdDeviation="4"/></filter></defs>
+<g font-family="Arial,Helvetica,sans-serif" font-weight="900" letter-spacing="-.2">
+<text x="2" y="37" font-size="30" fill="#f8faf8">EXCHANGE</text>
+<text x="2" y="75" font-size="38" fill="url(#green)">BURO</text>
+<text x="137" y="75" font-size="38" fill="#ffffff">PAY</text>
+</g>
+<g transform="translate(300 7)">
+<path d="M11 39 81 4 61 84 45 56 21 71 29 45Z" fill="#70ff37" opacity=".35" filter="url(#g)"/>
+<path d="M7 38 78 3 61 77 43 52Z" fill="url(#steel)"/>
+<path d="M36 52 61 77 80 17 80 3Z" fill="url(#green)"/>
+<path d="M7 38 43 52 80 3Z" fill="#a9b4ae"/>
+</g>
+</svg>
