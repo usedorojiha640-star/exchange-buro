@@ -1,0 +1,25 @@
+{
+  "short_name": "Exchange Buro",
+  "name": "EXCHANGE BURO PAY — обмен криптовалют по всему миру",
+  "description": "Обмен криптовалют, международный формат работы и связь с менеджером 24/7.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#03110d",
+  "background_color": "#03110d",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "/assets/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
